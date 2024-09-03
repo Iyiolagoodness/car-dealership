@@ -1,0 +1,25 @@
+*{
+
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+.collections{    
+    justify-content: space-between;
+}
+.part{
+    justify-content: space-between;
+}
+.hr-cards{
+    display: flex;
+    justify-content: space-between;
+}
+.ending{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    color: white;
+    display: flex;
+    justify-content: space-between;    
+}
